@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+    color: gold;
+}
+
+body {
+    background-image: url(https://th.bing.com/th/id/R.5c40408ab74827f88d591d78bd8f55e2?rik=X4RGFb6QwMFxMA&pid=ImgRaw&r=0);
+    background-size: cover;
+   
+}
+p {
+    text-align: left;  
+    color: gold;
+}
+a {
+    color: aqua;
+}
